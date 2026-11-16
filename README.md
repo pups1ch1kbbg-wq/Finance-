@@ -6,7 +6,7 @@ Educational project for the course Introduction to Finance. Not a real product, 
 **Group:** SE-2526  
 **Team Members:** Zhangir Kairov, Azat Zholdygali  
 **Supervisor:** Raskaliyev Timur  
-**Demo Video:** [Insert Google Drive Demo Video Link Here]
+**Demo Video:** https://youtu.be/kuspK2eHOZU?si=rv3hl8vndqRAN1eD
 
 ## Overview
 This repository contains the local Hardhat smart contract prototype for **HealthyChain**, a permissioned blockchain platform designed to prevent cold-chain spoilage and invoice settlement delays in Kazakhstan's pharmaceutical distribution sector.
