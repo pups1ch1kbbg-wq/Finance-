@@ -1,0 +1,17 @@
+{
+  "name": "healthychain-prototype",
+  "version": "1.0.0",
+  "description": "Educational prototype for HealthyChain cold-chain pharmaceutical escrow",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "demo": "npx hardhat run scripts/deploy_and_demo.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
